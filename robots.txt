@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://bp2222.hitad.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
